@@ -1,10 +1,10 @@
 
-* **Senior AI Engineer interviews
+* Senior AI Engineer interviews
 * Agentic AI Architect roles
 * GenAI Platform Engineer roles
 * AI Infrastructure & RAG Architect positions
 * Applied LLM Engineer roles
-* AI Product/System Design interviews**
+* AI Product/System Design interviews
 
 The document must be EXTREMELY DETAILED, IMPLEMENTATION-FOCUSED, ENTERPRISE-GRADE, and INTERVIEW-ORIENTED.
 
